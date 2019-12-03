@@ -23,7 +23,7 @@ from sklearn import linear_model
 from sklearn.ensemble import GradientBoostingRegressor
 import pickle
 
-path='/Users/andychen/Desktop/UMD/CHIDS/chidsdata'
+path='/Users/huiminhan/Documents/CHIDS/chidsdata'
 os.chdir(path)
 file = pd.ExcelFile('San Diego MCA Centralized Scheduling Data.xlsx')
 
