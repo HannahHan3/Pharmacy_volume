@@ -69,5 +69,5 @@ for i in range(len(temp)):
 for d in range(36):
     model=pickle.load(open(model_file['name'].get(key=d),'rb'))
     pred=model.predict(np.reshape(np.asarray(x),(1,-1)))
-    print('predicted total drug in Day %d: %d' % (d+1,pred))
+    print('predicted total drug in Day %d: %d' % (d+35,pred))
 
