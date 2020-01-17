@@ -4,3 +4,5 @@ We got historical data about pharmacy sales volume, and we need to predict the n
 
 
 Since I've signed confidentiality agreement, the data are not provided here. Yet I will show the model deployment files with sample input. I also attached sample code file for modeling part for reference.
+
+For modeling part, I've tried GDBoosting, Bagging, Random Forest, SGDBoosting, Lasso, Ridge. After parameter tuning, i dumped the best models into .sav files for deployment.
