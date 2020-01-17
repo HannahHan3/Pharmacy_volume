@@ -19,8 +19,6 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import SGDRegressor
 from sklearn.ensemble import GradientBoostingRegressor
 
-path='/Users/andychen/Desktop/UMD/CHIDS/chidsdata/models'
-os.chdir(path)
 model_file=pd.read_excel('models.xlsx','Sheet1')
 
 
