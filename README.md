@@ -9,8 +9,9 @@ For more details, please see the "Phase 1 Demo.docx"
 
 ## Phase 2: Training 
 
-Task: use the data in the past 35 days to predict the sales in the coming 35-70 days in advance.
-Additional: Take whether in first 10 days or last 10 days of the month into account. Train models, conducted grid search to pick the best models and dumped as .sav files. For modeling part, I've tried GDBoosting, Bagging, Random Forest, SGDBoosting, Lasso, Ridge. For hyperprameter tuning, I manually did the "grid search".
+* Task: use the data in the past 35 days to predict the sales in the coming 35-70 days in advance.
+* Additional: Take whether in first 10 days or last 10 days of the month into account. 
+* Trained models, conducted grid search to pick the best models and dumped as .sav files. For modeling part, I've tried GDBoosting, Bagging, Random Forest, SGDBoosting, Lasso, Ridge. For hyperprameter tuning, I manually did the "grid search".
 
 Please see "Training.py" for more details.
 
