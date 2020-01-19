@@ -16,4 +16,5 @@ Please see "Training.py" for more details.
 
 ## Phase 3: Deployment
 
+Download the deployment fold, then run the .py file, you will see the how it work with sample input. 
 
