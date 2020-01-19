@@ -3,7 +3,14 @@
 
 Data are provided by a technology company that support data-driven healthcare. The data is time series data about pharmacy sales volume. The goal is to provide insights about factors that have great influence on pharmacy sales and deployable model that could be used to predict pharmacy sales.
 
-I considered time series method like ARIMA, and also initial ML modeling, for which I utilized last 30-days volume as new features.
+I considered time series method like ARIMA, and also basic ML models, for which I utilized last 7-days volume as new features according to the EDA results.
+
+For more details, please see the "Phase 1 Demo.doc"
+## Phase 2:
+
+
+
+
 
 
 
